@@ -1,8 +1,8 @@
 {
-  "name": "Hitman47",
-  "version": "0.1.0",
+  "name": "MARIA",
+  "version": "5.0",
   "description": "A WhatsApp bot written in TypeScript using Baileys",
-  "author": "dk",
+  "author": "jflex",
   "main": "dist/bot.js",
   "keywords": [
     "bot",
@@ -30,7 +30,7 @@
     "@shineiichijo/marika": "^2.0.6",
     "@shineiichijo/nhentai-ts": "^1.0.0",
     "@typegoose/typegoose": "^10.0.0",
-    "@whiskeysockets/baileys": "^6.7.2",
+    "@whiskeysockets/baileys": "^6.6.0",
     "axios": "^1.4.0",
     "anime-quiz": "^3.0.0",
     "axios-cache-interceptor": "^1.0.1",
