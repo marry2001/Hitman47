@@ -25,6 +25,9 @@ export class MessageHandler {
         ongoing: new Set<string>()
     }
 
+    // List of harsh words
+    private harshWords = ['bitch', 'ass', 'fuck'] // Replace with actual harsh words
+
     private spawnPokemon = async (): Promise<void> => {
         schedule('*/7 * * * *', async () => {
             if (this.wild.length < 1) return void null
