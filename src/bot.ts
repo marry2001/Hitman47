@@ -1,5 +1,6 @@
 import { Client } from './Structures'
 import { MessageHandler, AssetHandler, EventHandler } from './Handlers'
+
 ;(async () => {
     const client = new Client()
 
@@ -25,6 +26,6 @@ import { MessageHandler, AssetHandler, EventHandler } from './Handlers'
     client.once('open', async () => {
         messageHandler.groups = await client.getAllGroups()
         await messageHandler.loadWildEnabledGroups()
-        await messageHandler.loadCharaEnabledGroups()
+        await messageHandler.loadBadWardsEnabledGroups()  // Changed from loadCharaEnabledGroups to loadBadWardsEnabledGroups
     })
 })()
