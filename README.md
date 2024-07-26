@@ -1,84 +1,81 @@
-<p align="center">
-<img src="https://telegra.ph/file/20c8b2be57cca5ab47230.jpg" alt="nz" width="350"/>
+<div align="center">
+	
+![](https://typograssy.deno.dev/api?text=I'M__MARIA_BOT_MODIFIED_BY_JFLEX-OG_ASSISTED_BY_Mr.KAKASHI。!&l0=none&l1=216e39&l4=a3f0b0&bg=none&frame=none&speed=100&comment=)
+
+<img src="https://telegra.ph/file/24bc2ce64e9013305d667.jpg" alt="nz" width="350"/>
 </p>
 
-## ***♥️Hitman47♥️***
-> This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
-> ***Note: it's a modified version)***
+## ***♥️MARIA-MD🤭♥️***
+This Script WhatsApp Bot Using Library Baileys & Script is for Sale!
+> ***Note: it's a modified version of [chisato-WhatsAp](https://github.com/AliAryanTech/Chisato-WhatsApp)***
 </br>
-
-<a 
-href="https://github.com/DkHitman/"><img title="Author" src="https://img.shields.io/badge/Author-Hitman47-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/Dkhitman3/Hitman47"><img title="Stars" src="https://img.shields.io/github/stars/Dkhitman3/Hitman47?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/Dkhitman3/Hitman47/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dkhitman3/Hitman47?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/Dkhitman3/Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dkhitman3/Bot?label=watchers&color=54aeff&style=flat-square" /></a> <br>
-
-1. **Fork the repo**
-    <br>
-<a href='https://github.com/Dkhitman3/Hitman47/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
----
 
 ### Deployment Methods ♥️
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/Dkhitman3/Hitman47/blob/master/ "Deploy with Heroku")
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/toshi-san001/koyeb-auto-install:main&env%5BPORT%5D=8000&env%5BPREFIX%5D&&env%5BMONGODB%5D&&env%MODS%5D&name=Hitman47)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/3j9GNw?referralCode=TE7efK)
+<b><details><summary>Heroku Deployment</summary></b>  
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/marry2001/marry2001-Vision-5.0/blob/master/ "Deploy with Heroku")
+</details>
 
-**here is the video how to deploy**
+<b><details><summary>Deployment Guide</summary></b>  
+> - [Self Hosting Guide](https://github.com/AliAryanTech/Chisato-WhatsApp/blob/master/Self-Hosting-Guide.md)
+> - [Heroku Hosting Guide](https://github.com/AliAryanTech/Chisato-WhatsApp/blob/master/Heroku-Hosting-Guide.md)
+</details>
 
-[Youtube 🎥](https://youtu.be/K7KycxbCTOs?feature=shared)
+<b><details><summary>Preview Info</summary></b>
+> - Fully Modular Design </br>
+> - Written in [TypeScript](https://www.typescriptlang.org/)
+> - Built with [Baileys](https://github.com/adiwajshing/baileys) (A Lightweight full-featured WhatsApp Library)
+> - Powered by [ExpressJs](https://expressjs.com/) </br>
+> - Database handled via [MongoDB](https://www.mongodb.com/) </br>
+> - Self Auth restoration </br>
+</details>
 
-### Deployment Guide🏮
-- [Self Hosting Guide](https://github.com/Dkhitman3/Hitman47/tree/master?tab=readme-ov-file/blob/master/Self-Hosting-Guide.md)
-- [Heroku Hosting Guide](https://github.com/Dkhitman3/Hitman47/tree/master?tab=readme-ov-file/blob/master/Heroku-Hosting-Guide.md)
+<b><details><summary>Contribution</summary></b>  
+> - Feel free to open issues regarding any problems or if you have any feature requests 
+> - Make sure to follow the ESLint Rules while editing the code and run `yarn format` before opening Pull request 
+</details>
+### **Hi 👋, I'm JFLEX ❤️👻**
 
-### Preview Info🧧
-- Fully Modular Design </br>
-- Written in [TypeScript](https://www.typescriptlang.org/)
-- Built with [Baileys](https://github.com/adiwajshing/baileys) (A Lightweight full-featured WhatsApp Library)
-- Powered by [ExpressJs](https://expressjs.com/) </br>
-- Database handled via [MongoDB](https://www.mongodb.com/) </br>
-- Self Auth restoration </br>
+**`A passionate backend developer from Tanzania 🇹🇿`** 
 
-### Contribution♥️
-- Feel free to open issues regarding any problems or if you have any feature requests 
-- Make sure to follow the ESLint Rules while editing the code and run `yarn format` before opening Pull request 
+## **☕ About me**
+<a href="https://github.com/marry2001"><img align="left" width="75" src="https://i.ibb.co/Dk3RtQM/Megumi-Fushiguro.webp"></a>
+𝐉𝐅𝐋𝐄𝐗 𝐎𝐆 : By day, I'm a code-slinging ninja. When night falls, I dominate the FPS realm. And in the moments between, I craft edits that'd make Doc Ock green with envy! <br><br>
 
---- 
 
-## License✡️
 
-> Hitman47 is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/Dkhitman3/Hitman47/tree/master?tab=readme-ov-file/blob/master/LICENSE)
 
-## Support 🧧
 
-<a href="https://chat.whatsapp.com/CrgPUQwW2LaGxzTC9ZjMbp">
-  <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+## **🟪Profile Counter**
+<a href="https://github.com/marry2001/"><img align="right" width=400 src="https://moe-counter.glitch.me/get/marry2001?theme=rule34"></a>
+<a href="https://github.com/marry2001"><img align="left" width="100" src="https://64.media.tumblr.com/8f3d84d35802ef4681ff96f69fa187b1/tumblr_n6bu3cJbUA1raoul2o1_500.gifv"></a>
 
-</br>
 
-## 🎗Help
-Please give this repo a ⭐ if it helped you.
 
-## ✍︎ Hitman47 ♥️
 
-*This is a lovely project by Hitman47 🌹. if you have a problem with this project go fuck yourself. After forking don't do any change. If you wanna do any changes click the following Whatsapp icons and join our groups and contact an Owner*
- 
-HOW TO REACH THE OWNER? 👇👇👇
-   <a href="https://wa.me/+27844132352?text=Hi%20I%20Am%20From%20GitHub%20☺️">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
 
-## Thanks To♥️
-* [`Shinei | Whatshell`](https://github.com/LuckyYam/)
+```yaml
+MFAUME SADICK？
+```
 
-- 🌱 I’m currently learning **TS Language,B##**
+<br><br
 
-   🧧**I'm mot a developer**🧧
+## **📫 Contact**
+**Please Contact me on WhatsApp for a quick response:** [JFLEX](https://api.whatsapp.com/send/?phone=255694039542&text=Hello%20JFLEX!%20%F0%9F%8D%B7&type=phone_number&app_absent=0)
 
-**- 📫 easy to deploy this bot just tag deploy to Heroku that's all** 
+<img align="right" width="100" src="https://shorturl.at/dhJ34"></a>
 
-- ⚡ Fun fact **I Think I'm Funny.**
-- 
+**You can also email me here:** mfaumekozgur@email.com
+
+****THANKS TO****
+<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Debanjan-San">-->
+[![](https://komarev.com/ghpvc/?username=debanjan-san&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Debanjan-San) 
+
+<!--<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Levi-new-2024">-->
+[![](https://komarev.com/ghpvc/?username=debanjan-san&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Levi-new-2024)
+
+
+
+
+
+
+<img align= "right" width= "240" src= "https://media.tenor.com/YM91d6z3icQAAAAi/anime.gif"/>
